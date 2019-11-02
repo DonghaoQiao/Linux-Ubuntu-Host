@@ -58,6 +58,6 @@ jupyter notebook --ip=0.0.0.0
 用如下命令可以查看当前环境安装了哪些包：
 $ pip freeze
 
-查看占用端口lsof -i
-Kill -9 PID
+查看占用端口 lsof -i  
+关闭占用端口 kill -9 PID
 
