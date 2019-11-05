@@ -1,4 +1,4 @@
-**Secure Shell**(ssh)是一种网络协议，用于计算机之间的加密登录。
+**Secure Shell**(ssh)是一种网络协议，用于计算机之间的加密登录。  
 Secure Shell(ssh) is a cryptographic network protocol for operating network services securely over an unsecured network.
 
 Mac使用ssh登录远端服务器  
