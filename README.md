@@ -4,4 +4,4 @@
 [Connect Host to Mac](https://github.com/DonghaoQiao/Ubuntu/blob/master/Host2Mac.md)  
 
 
-076e906127441aafe2ea0e9f3b9845f16ad659ac58b879e3
+439286ce87df3319d791c5f74294c0a6353c516bd3bd0c96
